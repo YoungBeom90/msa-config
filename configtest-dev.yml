@@ -5,9 +5,11 @@
 #     "version" : "dvasiokjhfovn349420-u39fjdnsf93",
 #     "state" : null,
 #     "propertySources" : [
-#         {
-#             "name" : "https://github.com/YoungBeom90/msa-config.git/configtest-dev.yml",
-#             "source" : { "msa.value" : "dev-test-value" }
-#         }
+#         
 #     ]
 # }
+
+{
+  "name" : "https://github.com/YoungBeom90/msa-config.git/configtest-dev.yml",
+  "source" : { "msa.value" : "dev-test-value" }
+}
